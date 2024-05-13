@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MAX_CPU"],"macro":["debug","info","mmio","print","println","warning"],"mod":["addressing","boot","dev","interrupt","kprint","spin_lock","x86_64"]};

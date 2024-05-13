@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["VmError","VmxError"],"fn":["start_vmx_on_cpu"],"mod":["vcpu","vm","vm_control","vmcs","vmexits"],"trait":["Probe"]};

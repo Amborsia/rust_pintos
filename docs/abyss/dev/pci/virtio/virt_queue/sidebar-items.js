@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Kick"],"struct":["VirtQueue","VirtqAvail","VirtqAvailContainer","VirtqDesc","VirtqDescContainer","VirtqDescFlags","VirtqDescs","VirtqSglBuilder","VirtqUsed","VirtqUsedContainer","VirtqUsedElem"]};

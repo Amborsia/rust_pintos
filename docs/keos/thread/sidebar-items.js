@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["STACK_SIZE","THREAD_MAGIC"],"enum":["ThreadState"],"fn":["with_current"],"mod":["channel","scheduler"],"struct":["JoinHandle","ParkHandle","Thread","ThreadBuilder"],"type":["ThreadPinGuard"]};

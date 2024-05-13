@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["PciCapabilityType"],"fn":["try_get_configurations"],"struct":["NotifyCfgTriple","PciTransport","VirtIoIsrCfg","VirtIoNotifyCfg","VirtIoPciCommonCfg"]};

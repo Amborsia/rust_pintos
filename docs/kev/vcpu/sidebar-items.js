@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["PrivilegeLevel","VmexitResult"],"mod":["interrupt","intrinsics","msr","pio","segmentation","table","tss"],"struct":["Cr0","Cr4","GeneralPurposeRegisters","GenericVCpuState","Rflags","VCpu"],"trait":["VCpuOps","VCpuState"]};

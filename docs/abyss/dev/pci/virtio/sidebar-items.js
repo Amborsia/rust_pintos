@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DeviceType"],"mod":["block","pci","virt_queue"],"struct":["IsrCfg","QueueBuilder","QueueScope","Status","VirtIoDevice","VirtIoFeaturesCommon"],"trait":["VirtIoDeviceFeature"]};

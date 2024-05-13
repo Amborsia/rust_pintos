@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["PrivilegeLevel"],"mod":["interrupt","intrinsics","msr","pio","segmentation","table","tss"],"struct":["Cr0","Cr4","Rflags"]};

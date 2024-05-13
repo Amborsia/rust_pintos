@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["get_bdev"],"mod":["mmio","pci","x86_64"],"struct":["DeviceError"]};
